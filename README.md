@@ -8,3 +8,4 @@
 | 2026-09-22 | SQL vs NoSQL Databases: The Basics | [2026-09-22-sql-vs-nosql-basics.md](./2026-09-22-sql-vs-nosql-basics.md) |
 | 2026-09-23 | Database Indexing Fundamentals | [2026-09-23-database-indexing-fundamentals.md](./2026-09-23-database-indexing-fundamentals.md) |
 | 2026-09-24 | Database Transactions & ACID Basics | [2026-09-24-transactions-acid-basics.md](./2026-09-24-transactions-acid-basics.md) |
+| 2026-09-25 | Caching Fundamentals | [2026-09-25-caching-fundamentals.md](./2026-09-25-caching-fundamentals.md) |
