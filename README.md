@@ -11,3 +11,4 @@
 | 2026-09-25 | Caching Fundamentals | [2026-09-25-caching-fundamentals.md](./2026-09-25-caching-fundamentals.md) |
 | 2026-09-26 | Load Balancing Fundamentals | [2026-09-26-load-balancing-fundamentals.md](./2026-09-26-load-balancing-fundamentals.md) |
 | 2026-09-28 | Authentication vs Authorization | [2026-09-28-authentication-vs-authorization.md](./2026-09-28-authentication-vs-authorization.md) |
+| 2026-09-29 | Pagination Basics | [2026-09-29-pagination-basics.md](./2026-09-29-pagination-basics.md) |
