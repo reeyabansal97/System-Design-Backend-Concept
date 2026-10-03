@@ -14,3 +14,4 @@
 | 2026-09-29 | Pagination Basics | [2026-09-29-pagination-basics.md](./2026-09-29-pagination-basics.md) |
 | 2026-09-30 | Connection Pooling | [2026-09-30-connection-pooling.md](./2026-09-30-connection-pooling.md) |
 | 2026-10-02 | Monoliths vs Microservices | [2026-10-01-monoliths-vs-microservices.md](./2026-10-01-monoliths-vs-microservices.md) |
+| 2026-10-03 | Message Queues Fundamentals | [2026-10-03-message-queues.md](./2026-10-03-message-queues.md) |
